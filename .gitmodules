@@ -1,0 +1,3 @@
+[submodule "libs/prism"]
+	path = libs/prism
+	url = git@github.com:cpp-prism/prism.git
